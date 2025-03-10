@@ -10,7 +10,7 @@
   "collegeName": "COEP",
   "baseUrl": "esd-coep.vlabs.ac.in",
   "introduction": "Embedded System is fast growing research area and microcontrollers are an integral part of each embedded system. Microcontrollers are small computers mainly used to provide automation and intelligence in the embedded systems. In this virtual laboratory, students will gain a comprehensive understanding of embedded systems development using PIC18 series Microcontrollers. They will explore the details about functioning of clock, I/O pins, I/O interfaces like LED, Switch, on-ship interfaces like, Times/Counters, ADC, PWM etc.<br>The virtual lab will give students great experience of understanding embedded-c programming, for various I/O and on-chip interfaces. Students can even download the auto generated programs and test them for the Microchip IDE for further embedded system development. Lab provides a robust foundation for overall understanding of PIC18 series Microcontroller and bridges the gap between academic theory and real-time development.",
-  "experiment-sections":[
+  "experiments":[
     {
         "name": "Programming for Delay Generation and Effect of CPU Clock",
         "short-name": "delay-generation-effect",
